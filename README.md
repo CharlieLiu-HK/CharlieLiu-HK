@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Charlie Junde Liu,
+- 👋 Hi, I’m Charlie Junde Liu (https://jundeliu.com/), 
 - 👀 I’m a student of Quantitative Social Analysis at the Hong Kong University of Science and Technology,
-- 🌱 I believe that certain social phenomena are better explained by using data and quanitative methods, I'm also devoted to finding new ways to raise social awareness and bring about socital changes by doing data analysis, and more importantly, by makingthe rtttr of data analysis more easily accessiable for the general public.
-- 💞️ To futher  my academic training in Sociology, I've also built big data analysis and web development. As for the former, I'm expert in data visualization, regression model building and machine learning. For, web dev, 
+- 🌱 I believe that certain social phenomena are better explained by using data and quanitative methods, I'm also devoted to finding new ways to raise social awareness and bring about socital changes by doing data analysis, and more importantly, by making the results of data analysis more easily accessiable for the general public.
+- 💞️ To futher  my academic training in Sociology, I've developed my skillsets around big data analysis and web development. As for big data, I'm expert in data visualization, regression model building and machine learning in R. For web dev, I'm accomplished in full stack development with React and Node JS, as well as builing R Shiny apps, and R Plumber API.
 - 📫 For contact, jliucv@connect.ust.hk or +852 65799139 could reach me during any time of a day.
